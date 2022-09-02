@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vester01
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning programming php
-- 💞️ I’m looking to collaborate on pyton 
+- 👀 I’m interested in website programming 
+- 🌱 I’m currently learning how to program 
+- 💞️ I’m looking to collaborate on php coding 
 - 📫 How to reach me bigvester01@gmail.com
 
 <!---
